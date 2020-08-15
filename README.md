@@ -1,0 +1,2 @@
+# Research: Design and Analysis of a Secure Smart-Card-Based Healthcare System
+The research consists of 2 main parts, the investigation of smart card architectures and modeling security threats in an Electronic Healthcare System. A functional system architecture has been proposed to address these security threats which specifies a smart-card-based authentication method. The research was conducted in the Spring and Summer of 2020 for my Research Method and Technical Presentation course (which includes both Written and Oral Presentations).
